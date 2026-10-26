@@ -1,0 +1,6 @@
+{
+    "name": "poc-finops-arima",
+    "dependencies": {
+        "@dataform/core": "3.0.0"
+    }
+}
